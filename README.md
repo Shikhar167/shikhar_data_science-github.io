@@ -1,4 +1,4 @@
-# Data Scientist
+# Data = Everything
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
