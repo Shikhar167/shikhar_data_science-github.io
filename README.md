@@ -3,7 +3,7 @@
 
 I'm a passionate data science enhusiast always on the hunt for the next exciting problem to solve. I aspire to a role that fulfills my innate desire to solve impactful problems of the world. I work hard and don't stop till I achieve what I've set out to. I'm on a constant journey of self-improvement, and firmly beleive in adding value to the team I'm a part of. 
 
-If that sounds like something that interests you, shoot me an email at ssingh45@usc.edu, and maybe we can solve some problems together!
+If that sounds like something that interests you, shoot me an email at ssingh45@usc.edu, and maybe we can solve the next big problem together!
 
 ## Education						       		
 - M.S, CS	| University of Southern California, Los Angeles (_Dec 2024_)	 			        		
