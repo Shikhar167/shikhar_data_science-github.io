@@ -1,8 +1,8 @@
 # About Me
 
 ## Education						       		
-- M.S, Physics	| University of Southern California, Los Angeles (_Dec 2024 (Expected)_)	 			        		
-- B.Tech, Computer Science and Engineering | Vellore Institute of Technology  (_Sept 2020_)
+- M.S, CS	| University of Southern California, Los Angeles (_Dec 2024 (Expected)_)	 			        		
+- B.Tech, CSE | Vellore Institute of Technology  (_Sept 2020_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
