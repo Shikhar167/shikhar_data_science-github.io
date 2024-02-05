@@ -1,7 +1,7 @@
 # About Me
 
 ## Education						       		
-- M.S, CS	| University of Southern California, Los Angeles (_Dec 2024 (Expected)_)	 			        		
+- M.S, CS	| University of Southern California, Los Angeles (_Dec 2024_)	 			        		
 - B.Tech, CSE | Vellore Institute of Technology  (_Sept 2020_)
 
 ## Work Experience
