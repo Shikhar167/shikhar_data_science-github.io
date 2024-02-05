@@ -1,9 +1,8 @@
 # About Me
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M.S, Physics	| University of Southern California, Los Angeles (_Dec 2024 (Expected)_)	 			        		
+- B.Tech, Computer Science and Engineering | Vellore Institute of Technology  (_Sept 2020_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
