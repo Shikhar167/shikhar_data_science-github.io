@@ -2,7 +2,7 @@
 
 ## Education						       		
 - M.S, CS	| University of Southern California, Los Angeles (_Dec 2024_)	 			        		
-- B.Tech, CSE | Vellore Institute of Technology  (_Sept 2020_)
+- B.Tech, CSE | Vellore Institute of Technology, Tamil Nadu  (_Sept 2020_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
