@@ -71,11 +71,19 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Used median filtering, clustering, edge detection techniques in MATLAB to deduce results with 92% accuracy<br><br>
 
 ## Sentiment Analysis of Amazon Customer Review Data
+<div align="center">
+<img src="assets/amazon.png" alt="SA" title="SA" width="500" height="400"/>
+</div>
+
 [Link to project](https://github.com/Shikhar167/USC/tree/main/Amazon%20Review%20Sentiment%20Analysis)
 - Analyzed, cleaned, and pre-processed 2,000,000 records of Amazon customer review data in Python to prepare sample dataset
 - Performed binary sentiment classification, achieving an accuracy of 89% by fine-tuning machine learning models<br><br>
 
 ## Predicting Future Energy Consumption – Time Series Forecasting
+<div align="center">
+<img src="assets/time.png" alt="TS" title="TS" width="500" height="400"/>
+</div>
+
 [Link to project](https://github.com/Shikhar167/USC/tree/main/Time%20Series%20Forecasting%20-%20Energy%20Consumption)
 - Performed time series analysis on 16 years of PJM Interconnection East region Energy Consumption data measured in MW
 - Extracted features & calculated importance using an XGBoost model. Predicted future energy consumption with 86% accuracy<br><br>
