@@ -31,7 +31,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 # Projects
 ## MediumGEN - "Medium" Style Articles using Large Language Models
-![MediumGEN](assets/mediumgn.png "MediumGEN")
+<img src="assets/mediumgn.png" alt="MediumGEN" title="MediumGEN" width="300"/>
 [Link to project](https://www.mdpi.com/1424-8220/22/8/3048https://github.com/rs2309/MediumGEN)
 - Fine tuned GPT 2 and LLAMA 2 using Low Rank Adaption (LoRA) on a dataset of 200K Medium Articles
 - Devised a weighted scoring mechanism, to assess coherence, tone, accuracy and writing style on a 10-pt scale
@@ -39,7 +39,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 
 ## IPL2024 - Data Driven Player Selector Portal
-![IPL2024](assets/thumbnail.png "IPL2024")
+<img src="assets/thumbnail.png" alt="IPL2024" title="IPL2024" width="300"/>
 [Link to youtube demo](https://www.youtube.com/watch?v=7YkEAGLmHzQ&t=2s&ab_channel=ShikharSingh)
 - Crafted a BeautifulSoup web-scraper for automated IPL 2023 data collection from 10 teams and 74 matches
 - Processed, cleaned, and transformed data using Pandas and identified 8 KPIs to evaluate player performance
