@@ -43,8 +43,39 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Curated Best XI from player stats using 8 extracted KPIs, showcased on an interactive Tableau dashboard
 
 ### Marsfrost - Frost Identification on Mars using CNN
+[Link to project](https://github.com/Shikhar167/USC/tree/main/Frost%20Detection%20using%20CNN)
 - Trained a 3-layer CNN + MLP architecture on 214 HiRISE subframe images (5120*5120 px) of Martian terrain
 - Deployed various data augmentation and processing techniques to achieve a test macro avg f1-score of 92%
+
+### Skin Cancer Detection using K-Means
+[Link to project](https://github.com/Shikhar167/Projects_VIT_Vellore/blob/master/Academic_Projects/Skin%20Cancer%20Detection%20using%20K-Means%20Algorithm/Project%20Report%20Image%20Processing.pdf)
+- Built a model to process skin lesion images and determine if they are cancerous by evaluating physical characteristics
+- Used median filtering, clustering, edge detection techniques in MATLAB to deduce results with 92% accuracy
+
+### Sentiment Analysis of Amazon Customer Review Data
+[Link to project](https://github.com/Shikhar167/USC/tree/main/Amazon%20Review%20Sentiment%20Analysis)
+- Analyzed, cleaned, and pre-processed 2,000,000 records of Amazon customer review data in Python to prepare sample dataset
+- Performed binary sentiment classification, achieving an accuracy of 89% by fine-tuning machine learning models
+
+### Predicting Future Energy Consumption – Time Series Forecasting
+[Link to project](https://github.com/Shikhar167/USC/tree/main/Time%20Series%20Forecasting%20-%20Energy%20Consumption)
+- Performed time series analysis on 16 years of PJM Interconnection East region Energy Consumption data measured in MW
+- Extracted features & calculated importance using an XGBoost model. Predicted future energy consumption with 86% accuracy
+
+## Publication
+### Human Computer Interaction analysis on Game Developed in Python using Gesture Recognition
+[Publication](https://www.ijert.org/research/human-computer-interaction-game-developed-in-python-using-gesture-recognition-IJERTV8IS110227.pdf)
+- Conducted a comprehensive GUI evaluation of an interactive game developed in Python using Gesture Recognition techniques
+- Evaluated Nielsen’s heuristics and conducted trials across age groups to study cognitive ability based on game performance
+
+## Awards, Honors and Accolades
+### GV School Development Program Merit Scholarship | Vellore Institute of Technology
+[View Credential](file:///Users/shikhar167/Documents/Shikhar/Resumes%20and%20Cover%20Letters/Sept23/Shikhar_Singh_PM_Resume_Sept23_v2.pdf)
+- Rewarded scholarship across 4 years of UG study in recognition of VITEEE’16 rank (top 3.5%) and excellent academic performance
+
+### Chairman’s Award | Global Innovation Awards | Wolters Kluwer
+[View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/GIA%20win%20cred.png)
+- Received the prestigious enterprise-wide Chairman's Award for digital transformation of a critical application during the pandemic
 
 ### Technical Skills: 
 #### Languages: Python, R, JavaScript, SQL, CypherQL, MATLAB, HTML/CSS, Search Processing Language
