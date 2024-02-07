@@ -32,7 +32,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 # Projects
 ## MediumGEN - "Medium" Style Articles using Large Language Models
 <div align="center">
-<img src="assets/mediumgn.png" alt="MediumGEN" title="MediumGEN" width="700" height="400"/>
+<img src="assets/mediumgn.png" alt="MediumGEN" title="MediumGEN" width="500" height="400"/>
 </div>
 [Link to project](https://www.mdpi.com/1424-8220/22/8/3048https://github.com/rs2309/MediumGEN)
 - Fine tuned GPT 2 and LLAMA 2 using Low Rank Adaption (LoRA) on a dataset of 200K Medium Articles
