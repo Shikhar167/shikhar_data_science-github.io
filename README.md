@@ -1,14 +1,14 @@
-## About Me
+# About Me
 ![Brain](assets/brain.png "Depiction of My Brain")
 "I love art. I love data. How could I not love the art of data science?"
 
 I'm a passionate data science enhusiast always on the hunt for the next exciting problem to solve. I aspire to a role that fulfills my innate desire to solve impactful problems of the world. I work hard and don't stop till I achieve what I've set out to. I'm on a constant journey of self-improvement, and firmly beleive in adding value to the team I'm a part of. 
 
-If that sounds like something that interests you, shoot me an email at ssingh45@usc.edu, and maybe we can solve the next big problem together!
+If that sounds like something that interests you, shoot me an email at ssingh45@usc.edu, and maybe we can solve the next big problem together!<br><br>
 
 ## Education						       		
 - M.S, CS	| University of Southern California, Los Angeles (_Dec 2024_)	 			        		
-- B.Tech, CSE | Vellore Institute of Technology, Vellore  (_Sept 2020_)
+- B.Tech, CSE | Vellore Institute of Technology, Vellore  (_Sept 2020_)<br><br>
 
 ## Work Experience
 **Business Systems Analyst @ Wolters Kluwer (_Jan 2020 - Dec 2022_)**
@@ -25,8 +25,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Implemented a POC in the NeO4j GraphDB, generating mined process graph and improving query times by 20%
 - Optimized query performance using CypherQL to improve 15 methods of unearthing KPIs, enhancing readability
 - Refined process graph visualization using vis.js with 3 adaptive KPI indicators and animated edge traversal
-- Applied Random Forest on healthcare data to predict users’ next activity in the journey with an accuracy of 70%
-
+- Applied Random Forest on healthcare data to predict users’ next activity in the journey with an accuracy of 70%<br><br>
 
 ## Projects
 ### MediumGEN - "Medium" Style Articles using Large Language Models
@@ -34,7 +33,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 [Link to project](https://www.mdpi.com/1424-8220/22/8/3048https://github.com/rs2309/MediumGEN)
 - Fine tuned GPT 2 and LLAMA 2 using Low Rank Adaption (LoRA) on a dataset of 200K Medium Articles
 - Devised a weighted scoring mechanism, to assess coherence, tone, accuracy and writing style on a 10-pt scale
-- Experimented with prompting techniques to outscore baseline models by 15% across 40 generated articles
+- Experimented with prompting techniques to outscore baseline models by 15% across 40 generated articles<br><br>
 
 
 ### IPL2024 - Data Driven Player Selector Portal
@@ -42,35 +41,35 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 [Link to youtube demo](https://www.youtube.com/watch?v=7YkEAGLmHzQ&t=2s&ab_channel=ShikharSingh)
 - Crafted a BeautifulSoup web-scraper for automated IPL 2023 data collection from 10 teams and 74 matches
 - Processed, cleaned, and transformed data using Pandas and identified 8 KPIs to evaluate player performance
-- Curated Best XI from player stats using 8 extracted KPIs, showcased on an interactive Tableau dashboard
+- Curated Best XI from player stats using 8 extracted KPIs, showcased on an interactive Tableau dashboard<br><br>
 
 ### MarsFROST - Frost Identification on Mars using CNN
 ![MarsFROST](assets/frost.png "MarsFROST")
 [Link to project](https://github.com/Shikhar167/USC/tree/main/Frost%20Detection%20using%20CNN)
 - Trained a 3-layer CNN + MLP architecture on 214 HiRISE subframe images (5120*5120 px) of Martian terrain
-- Deployed various data augmentation and processing techniques to achieve a test macro avg f1-score of 92%
+- Deployed various data augmentation and processing techniques to achieve a test macro avg f1-score of 92%<br><br>
 
 ### Skin Cancer Detection using K-Means
 ![Skincancerdetection](assets/skin.png "SKD")
 [Link to project](https://github.com/Shikhar167/Projects_VIT_Vellore/blob/master/Academic_Projects/Skin%20Cancer%20Detection%20using%20K-Means%20Algorithm/Project%20Report%20Image%20Processing.pdf)
 - Built a model to process skin lesion images and determine if they are cancerous by evaluating physical characteristics
-- Used median filtering, clustering, edge detection techniques in MATLAB to deduce results with 92% accuracy
+- Used median filtering, clustering, edge detection techniques in MATLAB to deduce results with 92% accuracy<br><br>
 
 ### Sentiment Analysis of Amazon Customer Review Data
 [Link to project](https://github.com/Shikhar167/USC/tree/main/Amazon%20Review%20Sentiment%20Analysis)
 - Analyzed, cleaned, and pre-processed 2,000,000 records of Amazon customer review data in Python to prepare sample dataset
-- Performed binary sentiment classification, achieving an accuracy of 89% by fine-tuning machine learning models
+- Performed binary sentiment classification, achieving an accuracy of 89% by fine-tuning machine learning models<br><br>
 
 ### Predicting Future Energy Consumption – Time Series Forecasting
 [Link to project](https://github.com/Shikhar167/USC/tree/main/Time%20Series%20Forecasting%20-%20Energy%20Consumption)
 - Performed time series analysis on 16 years of PJM Interconnection East region Energy Consumption data measured in MW
-- Extracted features & calculated importance using an XGBoost model. Predicted future energy consumption with 86% accuracy
+- Extracted features & calculated importance using an XGBoost model. Predicted future energy consumption with 86% accuracy<br><br>
 
 ## Publication
 ### Human Computer Interaction analysis on Game Developed in Python using Gesture Recognition
 [Publication](https://www.ijert.org/research/human-computer-interaction-game-developed-in-python-using-gesture-recognition-IJERTV8IS110227.pdf)
 - Conducted a comprehensive GUI evaluation of an interactive game developed in Python using Gesture Recognition techniques
-- Evaluated Nielsen’s heuristics and conducted trials across age groups to study cognitive ability based on game performance
+- Evaluated Nielsen’s heuristics and conducted trials across age groups to study cognitive ability based on game performance<br><br>
 
 ## Awards, Honors and Accolades
 ### GV School Development Program Merit Scholarship | Vellore Institute of Technology
