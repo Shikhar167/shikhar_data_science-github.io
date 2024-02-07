@@ -78,16 +78,16 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 [View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/Shikhar%20Singh%20-%20Merit%20Scholarship.pdf)
 - Rewarded scholarship across 4 years of UG study in recognition of VITEEE’16 rank (top 3.5%) and excellent academic performance
 
-## Chairman’s Award | Global Innovation Awards | Wolters Kluwer
+## Chairman’s Award | Wolters Kluwer
 [View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/GIA%20win%20cred.png)
 - Received the prestigious enterprise-wide Chairman's Award for digital transformation of a critical application during the pandemic
 
 # Technical Skills: 
 ### Languages: 
 - Python, R, JavaScript, SQL, CypherQL, MATLAB, HTML/CSS, Search Processing Language
-###
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, Torch, TensorFlow, Image
-###
-- Frameworks and Tools: PyTorch, AWS, Tableau, Splunk, Git, Huggingface, VS Code, JIRA, LucidChart
-###
-- Databases: MySQL, PostgreSQL, NeO4j, Snowflake
+### Libraries: 
+- Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, Torch, TensorFlow, Image
+### Frameworks and Tools: 
+- PyTorch, AWS, Tableau, Splunk, Git, Huggingface, VS Code, JIRA, LucidChart
+### Databases: 
+- MySQL, PostgreSQL, NeO4j, Snowflake
