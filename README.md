@@ -29,26 +29,28 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 ## Projects
 ### MediumGEN - "Medium" Style Articles using Large Language Models
+![MediumGEN](assets/mediumgn.png "MediumGEN")
 [Link to project](https://www.mdpi.com/1424-8220/22/8/3048https://github.com/rs2309/MediumGEN)
-
 - Fine tuned GPT 2 and LLAMA 2 using Low Rank Adaption (LoRA) on a dataset of 200K Medium Articles
 - Devised a weighted scoring mechanism, to assess coherence, tone, accuracy and writing style on a 10-pt scale
 - Experimented with prompting techniques to outscore baseline models by 15% across 40 generated articles
 
-### IPL2024 - Data Driven Player Selector Portal
-[Link to youtube demo](https://www.youtube.com/watch?v=7YkEAGLmHzQ&t=2s&ab_channel=ShikharSingh)
-![IPL2024](assets/thumbnail.png "IPL2024")
 
+### IPL2024 - Data Driven Player Selector Portal
+![IPL2024](assets/thumbnail.png "IPL2024")
+[Link to youtube demo](https://www.youtube.com/watch?v=7YkEAGLmHzQ&t=2s&ab_channel=ShikharSingh)
 - Crafted a BeautifulSoup web-scraper for automated IPL 2023 data collection from 10 teams and 74 matches
 - Processed, cleaned, and transformed data using Pandas and identified 8 KPIs to evaluate player performance
 - Curated Best XI from player stats using 8 extracted KPIs, showcased on an interactive Tableau dashboard
 
-### Marsfrost - Frost Identification on Mars using CNN
+### MarsFROST - Frost Identification on Mars using CNN
+![MarsFROST](assets/frost.png "MarsFROST")
 [Link to project](https://github.com/Shikhar167/USC/tree/main/Frost%20Detection%20using%20CNN)
 - Trained a 3-layer CNN + MLP architecture on 214 HiRISE subframe images (5120*5120 px) of Martian terrain
 - Deployed various data augmentation and processing techniques to achieve a test macro avg f1-score of 92%
 
 ### Skin Cancer Detection using K-Means
+![Skincancerdetection](assets/skin.png "SKD")
 [Link to project](https://github.com/Shikhar167/Projects_VIT_Vellore/blob/master/Academic_Projects/Skin%20Cancer%20Detection%20using%20K-Means%20Algorithm/Project%20Report%20Image%20Processing.pdf)
 - Built a model to process skin lesion images and determine if they are cancerous by evaluating physical characteristics
 - Used median filtering, clustering, edge detection techniques in MATLAB to deduce results with 92% accuracy
