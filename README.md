@@ -106,9 +106,12 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 # Technical Skills: 
 ### Languages: 
 - Python, R, JavaScript, SQL, CypherQL, MATLAB, HTML/CSS, Search Processing Language
+  
 ### Libraries: 
 - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, Torch, TensorFlow, Image
+  
 ### Frameworks and Tools: 
 - PyTorch, AWS, Tableau, Splunk, Git, Huggingface, VS Code, JIRA, LucidChart
+  
 ### Databases: 
 - MySQL, PostgreSQL, NeO4j, Snowflake
