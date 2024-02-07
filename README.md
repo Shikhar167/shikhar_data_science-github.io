@@ -7,9 +7,9 @@ I'm a passionate data science enhusiast always on the hunt for the next exciting
 If that sounds like something that interests you, shoot me an email at ssingh45@usc.edu, and maybe we can solve the next big problem together!<br><br>
 
 # Education						       		
-- M.S, CS	| University of Southern California, Los Angeles (_Dec 2024_)	 			        		
+- M.S, CS | University of Southern California, Los Angeles (_Dec 2024_)	 			        		
 - B.Tech, CSE | Vellore Institute of Technology, Vellore  (_Sept 2020_)
-<br><br>
+
 
 # Work Experience
 **Business Systems Analyst @ Wolters Kluwer (_Jan 2020 - Dec 2022_)**
