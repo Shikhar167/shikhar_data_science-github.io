@@ -70,7 +70,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 ## Awards, Honors and Accolades
 ### GV School Development Program Merit Scholarship | Vellore Institute of Technology
-[View Credential](file:///Users/shikhar167/Documents/Shikhar/Resumes%20and%20Cover%20Letters/Sept23/Shikhar_Singh_PM_Resume_Sept23_v2.pdf)
+[View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/Shikhar%20Singh%20-%20Merit%20Scholarship.pdf)
 - Rewarded scholarship across 4 years of UG study in recognition of VITEEE’16 rank (top 3.5%) and excellent academic performance
 
 ### Chairman’s Award | Global Innovation Awards | Wolters Kluwer
