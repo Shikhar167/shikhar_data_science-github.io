@@ -87,7 +87,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Evaluated Nielsen’s heuristics and conducted trials across age groups to study cognitive ability based on game performance<br><br>
 
 # Awards, Honors and Accolades
-## Merit Scholarship | Vellore Institute of Technology
+## Merit Scholarship | VIT Vellore
 [View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/Shikhar%20Singh%20-%20Merit%20Scholarship.pdf)
 - Rewarded scholarship across 4 years of UG study in recognition of VITEEE’16 rank (top 3.5%) and excellent academic performance
 
