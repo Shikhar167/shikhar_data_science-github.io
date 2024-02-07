@@ -37,6 +37,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 ### IPL2024 - Data Driven Player Selector Portal
 [Link to youtube demo](https://www.youtube.com/watch?v=7YkEAGLmHzQ&t=2s&ab_channel=ShikharSingh)
+![IPL2024](assets/thumbnail.png "IPL2024")
 
 - Crafted a BeautifulSoup web-scraper for automated IPL 2023 data collection from 10 teams and 74 matches
 - Processed, cleaned, and transformed data using Pandas and identified 8 KPIs to evaluate player performance
