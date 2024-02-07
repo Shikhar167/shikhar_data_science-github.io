@@ -36,7 +36,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 <img src="assets/mediumgn.png" alt="MediumGEN" title="MediumGEN" width="500" height="400"/>
 </div>
 
-[Link to project](https://www.mdpi.com/1424-8220/22/8/3048https://github.com/rs2309/MediumGEN)
+[Link to project](https://github.com/rs2309/MediumGEN)
 - Fine tuned GPT 2 and LLAMA 2 using Low Rank Adaption (LoRA) on a dataset of 200K Medium Articles
 - Devised a weighted scoring mechanism, to assess coherence, tone, accuracy and writing style on a 10-pt scale
 - Experimented with prompting techniques to outscore baseline models by 15% across 40 generated articles<br><br>
