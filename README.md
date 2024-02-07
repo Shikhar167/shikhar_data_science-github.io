@@ -1,6 +1,7 @@
 # About Me
 ![Brain](assets/brain.png "Depiction of My Brain")
-"I love art. I love data. How could I not love the art of data science?"
+<br>
+**"I love art. I love data. How could I not love the art of data science?"**
 
 I'm a passionate data science enhusiast always on the hunt for the next exciting problem to solve. I aspire to a role that fulfills my innate desire to solve impactful problems of the world. I work hard and don't stop till I achieve what I've set out to. I'm on a constant journey of self-improvement, and firmly beleive in adding value to the team I'm a part of. 
 
