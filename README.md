@@ -106,7 +106,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 # Technical Skills
 
-### Languages
+### Programming Languages
 - Python, R, JavaScript, SQL, CypherQL, MATLAB, HTML/CSS, Search Processing Language
 
 ### Libraries
